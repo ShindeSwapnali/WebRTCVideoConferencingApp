@@ -1,0 +1,17 @@
+{
+  "name": "webrtcapp",
+  "version": "1.0.0",
+  "description": "",
+  
+  "dependencies": {
+    "connect": "^3.7.0",
+    "ejs": "2.x",
+    "express": "4.x",
+    "https": "^1.0.0",
+    "express.io": "1.x",
+    "serve-favicon": "^2.5.0"
+  },
+  "devDependencies": {
+    "coffee-script": "^1.12.7"
+  }
+}
